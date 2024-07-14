@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@shulajztickets/common": "^1.0.11"
+  }
+}
